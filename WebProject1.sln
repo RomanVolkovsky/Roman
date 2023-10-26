@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WebProject1", "WebProject1\WebProject1.pyproj", "{937201F9-0046-4152-B171-3CD10E7DA4C1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BottleWebServiceProducts", "BottleWebServiceProducts\BottleWebServiceProducts.pyproj", "{A112DE44-2B61-4B3C-88CC-38B92A28632C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937201F9-0046-4152-B171-3CD10E7DA4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937201F9-0046-4152-B171-3CD10E7DA4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937201F9-0046-4152-B171-3CD10E7DA4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937201F9-0046-4152-B171-3CD10E7DA4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A112DE44-2B61-4B3C-88CC-38B92A28632C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A112DE44-2B61-4B3C-88CC-38B92A28632C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A112DE44-2B61-4B3C-88CC-38B92A28632C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A112DE44-2B61-4B3C-88CC-38B92A28632C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3120595-FD7D-4330-8C31-5735F29D43ED}
+	EndGlobalSection
+EndGlobal
